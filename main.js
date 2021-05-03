@@ -20,8 +20,8 @@ result.addEventListener('click', () => {
         b = 0;
     }
     else{
-        w1 = 0;
-        w2 = 0;
+        w1 = 1;
+        w2 = 1;
         b = -1;
     }
 
